@@ -14,14 +14,14 @@ File: Custom Bootstrap Css File
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #2f55d4;
+  --bs-blue: #144e78;
   --bs-indigo: #6610f2;
   --bs-purple: #7952B3;
   --bs-pink: #d63384;
   --bs-red: #e43f52;
   --bs-orange: #ea580c;
   --bs-yellow: #f17425;
-  --bs-green: #2eca8b;
+  --bs-green: #144e78;
   --bs-teal: #0d9488;
   --bs-cyan: #17a2b8;
   --bs-black: #000000;
@@ -30,7 +30,7 @@ File: Custom Bootstrap Css File
   --bs-gray-dark: #343a40;
   --bs-red-two: #dc2626;
   --bs-green-two: #16a34a;
-  --bs-yellow-two: #f7961c;
+  --bs-yellow-two: #144e78;
   --bs-skyblue: #32c2ec;
   --bs-slateblue: #766df4;
   --bs-violet: #7c3aed;
@@ -45,7 +45,7 @@ File: Custom Bootstrap Css File
   --bs-gray-900: #212529;
   --bs-primary: #16a34a;
   --bs-secondary: #6c757d;
-  --bs-success: #2eca8b;
+  --bs-success: #144e78;
   --bs-info: #17a2b8;
   --bs-warning: #f17425;
   --bs-danger: #e43f52;
@@ -2928,7 +2928,7 @@ textarea.form-control-lg {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 0.875em;
-  color: #2eca8b;
+  color: #144e78;
 }
 
 .valid-tooltip {
@@ -2953,7 +2953,7 @@ textarea.form-control-lg {
 }
 
 .was-validated .form-control:valid, .form-control.is-valid {
-  border-color: #2eca8b;
+  border-color: #144e78;
   padding-left: calc(1.5em + 0.75rem);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%232eca8b' d='M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
@@ -2961,7 +2961,7 @@ textarea.form-control-lg {
   background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
 }
 .was-validated .form-control:valid:focus, .form-control.is-valid:focus {
-  border-color: #2eca8b;
+  border-color: #144e78;
   -webkit-box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
           box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
 }
@@ -2972,7 +2972,7 @@ textarea.form-control-lg {
 }
 
 .was-validated .form-select:valid, .form-select.is-valid {
-  border-color: #2eca8b;
+  border-color: #144e78;
 }
 .was-validated .form-select:valid:not([multiple]):not([size]), .was-validated .form-select:valid:not([multiple])[size="1"], .form-select.is-valid:not([multiple]):not([size]), .form-select.is-valid:not([multiple])[size="1"] {
   padding-left: 4.125rem;
@@ -2981,7 +2981,7 @@ textarea.form-control-lg {
   background-size: 16px 12px, calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
 }
 .was-validated .form-select:valid:focus, .form-select.is-valid:focus {
-  border-color: #2eca8b;
+  border-color: #144e78;
   -webkit-box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
           box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
 }
@@ -2991,17 +2991,17 @@ textarea.form-control-lg {
 }
 
 .was-validated .form-check-input:valid, .form-check-input.is-valid {
-  border-color: #2eca8b;
+  border-color: #144e78;
 }
 .was-validated .form-check-input:valid:checked, .form-check-input.is-valid:checked {
-  background-color: #2eca8b;
+  background-color: #144e78;
 }
 .was-validated .form-check-input:valid:focus, .form-check-input.is-valid:focus {
   -webkit-box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
           box-shadow: 0 0 0 0.25rem rgba(46, 202, 139, 0.25);
 }
 .was-validated .form-check-input:valid ~ .form-check-label, .form-check-input.is-valid ~ .form-check-label {
-  color: #2eca8b;
+  color: #144e78;
 }
 
 .form-check-inline .form-check-input ~ .valid-feedback {
@@ -3231,8 +3231,8 @@ textarea.form-control-lg {
 
 .btn-success {
   --bs-btn-color: #ffffff;
-  --bs-btn-bg: #2eca8b;
-  --bs-btn-border-color: #2eca8b;
+  --bs-btn-bg: #144e78;
+  --bs-btn-border-color: #144e78;
   --bs-btn-hover-color: #ffffff;
   --bs-btn-hover-bg: #27ac76;
   --bs-btn-hover-border-color: #25a26f;
@@ -3242,8 +3242,8 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #239868;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #ffffff;
-  --bs-btn-disabled-bg: #2eca8b;
-  --bs-btn-disabled-border-color: #2eca8b;
+  --bs-btn-disabled-bg: #144e78;
+  --bs-btn-disabled-border-color: #144e78;
 }
 
 .btn-info {
@@ -3400,19 +3400,19 @@ textarea.form-control-lg {
 }
 
 .btn-outline-success {
-  --bs-btn-color: #2eca8b;
-  --bs-btn-border-color: #2eca8b;
+  --bs-btn-color: #144e78;
+  --bs-btn-border-color: #144e78;
   --bs-btn-hover-color: #ffffff;
-  --bs-btn-hover-bg: #2eca8b;
-  --bs-btn-hover-border-color: #2eca8b;
+  --bs-btn-hover-bg: #144e78;
+  --bs-btn-hover-border-color: #144e78;
   --bs-btn-focus-shadow-rgb: 46, 202, 139;
   --bs-btn-active-color: #ffffff;
-  --bs-btn-active-bg: #2eca8b;
-  --bs-btn-active-border-color: #2eca8b;
+  --bs-btn-active-bg: #144e78;
+  --bs-btn-active-border-color: #144e78;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #2eca8b;
+  --bs-btn-disabled-color: #144e78;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #2eca8b;
+  --bs-btn-disabled-border-color: #144e78;
   --bs-gradient: none;
 }
 
@@ -7571,7 +7571,7 @@ textarea.form-control-lg {
 }
 
 .link-success {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .link-success:hover, .link-success:focus {
   color: #25a26f !important;
@@ -12269,7 +12269,7 @@ label {
 .alert-success {
   background-color: rgba(46, 202, 139, 0.9);
   color: #ffffff;
-  border-color: #2eca8b;
+  border-color: #144e78;
 }
 .alert-success .alert-link {
   color: #124d35;
@@ -12277,8 +12277,8 @@ label {
 
 .alert-outline-success {
   background-color: transparent;
-  color: #2eca8b !important;
-  border-color: #2eca8b;
+  color: #144e78 !important;
+  border-color: #144e78;
 }
 
 .alert-info {
@@ -12433,13 +12433,13 @@ label {
 }
 
 .bg-success {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 
 .bg-soft-success {
   background-color: rgba(46, 202, 139, 0.1) !important;
   border: 1px solid rgba(46, 202, 139, 0.1) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .bg-info {
@@ -12533,7 +12533,7 @@ a.text-secondary:hover, a.text-secondary:focus {
 }
 
 .text-success {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 a.text-success:hover, a.text-success:focus {
@@ -12659,13 +12659,13 @@ a.text-muted:hover, a.text-muted:focus {
 .btn-soft-success {
   background-color: rgba(46, 202, 139, 0.05) !important;
   border: 1px solid rgba(46, 202, 139, 0.05) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
           box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
 }
 .btn-soft-success:hover, .btn-soft-success:focus, .btn-soft-success:active, .btn-soft-success.active, .btn-soft-success.focus {
-  background-color: #2eca8b !important;
-  border-color: #2eca8b !important;
+  background-color: #144e78 !important;
+  border-color: #144e78 !important;
   color: #ffffff !important;
 }
 
@@ -12675,10 +12675,10 @@ a.text-muted:hover, a.text-muted:focus {
   position: relative;
 }
 .btn-link.success:hover, .btn-link.success:focus, .btn-link.success:active, .btn-link.success.active, .btn-link.success.focus, .btn-link.success:not(:disabled):not(.disabled):active {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .btn-link.success:after {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 
 .btn-soft-info {
@@ -13083,7 +13083,7 @@ button:not(:disabled) {
 
 .dropdown-success .dropdown-menu .dropdown-item:hover, .dropdown-success .dropdown-menu .dropdown-item.active, .dropdown-success .dropdown-menu .dropdown-item:active, .dropdown-success .dropdown-menu .dropdown-item.focus, .dropdown-success .dropdown-menu .dropdown-item:focus {
   background-color: transparent;
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .dropdown-info .dropdown-menu .dropdown-item:hover, .dropdown-info .dropdown-menu .dropdown-item.active, .dropdown-info .dropdown-menu .dropdown-item:active, .dropdown-info .dropdown-menu .dropdown-item.focus, .dropdown-info .dropdown-menu .dropdown-item:focus {

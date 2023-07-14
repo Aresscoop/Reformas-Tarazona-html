@@ -1135,14 +1135,14 @@ p {
 }
 
 .blog.blog-success .tag {
-  background: #2eca8b !important;
+  background: #144e78 !important;
 }
 .blog.blog-success .title:hover,
 .blog.blog-success .readmore:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .blog.blog-success .link {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .blog.blog-info .tag {
@@ -1242,7 +1242,7 @@ p {
   color: #e43f52 !important;
 }
 .blog .content .post-meta .comments:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .blog .author,
 .blog .teacher,
@@ -1463,39 +1463,39 @@ p {
 }
 
 .job-box.job-success .position a:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success .company-name:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success .title:hover,
 .job-box.job-success .readmore:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success .icons {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success.candidate-list .name:hover, .job-box.job-success.company-list .name:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success .bg {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 .job-box.job-success .bg-soft {
   background-color: rgba(46, 202, 139, 0.1) !important;
   border: 1px solid rgba(46, 202, 139, 0.1) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .job-box.job-success .btn-soft {
   background-color: rgba(46, 202, 139, 0.05) !important;
   border: 1px solid rgba(46, 202, 139, 0.05) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
           box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
 }
 .job-box.job-success .btn-soft:hover, .job-box.job-success .btn-soft:focus, .job-box.job-success .btn-soft:active, .job-box.job-success .btn-soft.active, .job-box.job-success .btn-soft.focus {
-  background-color: #2eca8b !important;
-  border-color: #2eca8b !important;
+  background-color: #144e78 !important;
+  border-color: #144e78 !important;
   color: #ffffff !important;
 }
 
@@ -1839,7 +1839,7 @@ p {
 }
 
 .categories.category-success .title:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .categories.category-info .title:hover {
@@ -2244,44 +2244,44 @@ p {
 }
 .features.feature-success .read-more,
 .features.feature-success .color {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success.feature-clean .icons {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success.feature-clean .icons i {
   background-color: rgba(46, 202, 139, 0.1);
 }
 .features.feature-success.feature-clean .title:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success.feature-full-bg .icon-color {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success.feature-full-bg:hover {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 .features.feature-success.key-feature .icon {
   background: linear-gradient(45deg, transparent, rgba(46, 202, 139, 0.15));
-  color: #2eca8b;
+  color: #144e78;
 }
 .features.feature-success.course-feature .full-img {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success.explore-feature:hover .icons,
 .features.feature-success.explore-feature:hover .title {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .features.feature-success .btn-soft {
   background-color: rgba(46, 202, 139, 0.05) !important;
   border: 1px solid rgba(46, 202, 139, 0.05) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
           box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
 }
 .features.feature-success .btn-soft:hover, .features.feature-success .btn-soft:focus, .features.feature-success .btn-soft:active, .features.feature-success .btn-soft.active, .features.feature-success .btn-soft.focus {
-  background-color: #2eca8b !important;
-  border-color: #2eca8b !important;
+  background-color: #144e78 !important;
+  border-color: #144e78 !important;
   color: #ffffff !important;
 }
 .features.feature-success:hover .image:before {
@@ -3170,22 +3170,22 @@ p {
 
 .nft.nft-success .title:hover,
 .nft.nft-success .read-more:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .nft.nft-success .link {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .nft.nft-success .author .name:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .nft.nft-success .bg-soft {
   background-color: rgba(46, 202, 139, 0.1) !important;
   border: 1px solid rgba(46, 202, 139, 0.1) !important;
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .nft.nft-success .btn {
-  background-color: #2eca8b !important;
-  border: 1px solid #2eca8b !important;
+  background-color: #144e78 !important;
+  border: 1px solid #144e78 !important;
   color: #ffffff !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
           box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
@@ -4161,17 +4161,17 @@ p {
   color: #ced4da;
 }
 .pricing.pricing-success.business-rate:hover {
-  border-color: #2eca8b !important;
+  border-color: #144e78 !important;
 }
 .pricing.pricing-success.business-rate:hover .title {
-  color: #2eca8b;
+  color: #144e78;
 }
 .pricing.pricing-success.starter-plan {
-  border-color: #2eca8b !important;
+  border-color: #144e78 !important;
 }
 .pricing.pricing-success .name,
 .pricing.pricing-success .icon {
-  color: #2eca8b;
+  color: #144e78;
 }
 .pricing.pricing-info.business-rate:hover {
   border-color: #17a2b8 !important;
@@ -4322,7 +4322,7 @@ p {
   border-top-color: #b1bbc4;
 }
 .ribbon.ribbon-success span {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 .ribbon.ribbon-success span:before {
   border-left-color: #25a06e;
@@ -4507,7 +4507,7 @@ p {
 }
 
 .team.team-success .name:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .team.team-info .name:hover {
@@ -4896,17 +4896,17 @@ html[dir=rtl] .tns-visually-hidden {
 }
 
 .work-container.work-success .title:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .work-container.work-success.work-modern .work-icon, .work-container.work-success.work-creative .work-icon {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .work-container.work-success.work-modern .work-icon:hover, .work-container.work-success.work-creative .work-icon:hover {
-  background: #2eca8b !important;
+  background: #144e78 !important;
 }
 .work-container.work-success .btn {
-  background-color: #2eca8b !important;
-  border: 1px solid #2eca8b !important;
+  background-color: #144e78 !important;
+  border: 1px solid #144e78 !important;
   color: #ffffff !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
           box-shadow: 0 3px 5px 0 rgba(46, 202, 139, 0.1);
@@ -4917,10 +4917,10 @@ html[dir=rtl] .tns-visually-hidden {
   color: #ffffff !important;
 }
 .work-container.work-success .bg {
-  background-color: #2eca8b !important;
+  background-color: #144e78 !important;
 }
 .work-container.work-success .link {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 
 .work-container.work-info .title:hover {
@@ -5377,7 +5377,7 @@ html[dir=rtl] .tns-visually-hidden {
 }
 
 .event-schedule.event-success .date {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .event-schedule.event-success .date .day {
   background: rgba(46, 202, 139, 0.1);
@@ -5385,10 +5385,10 @@ html[dir=rtl] .tns-visually-hidden {
           box-shadow: 0px 0px 2px 0.25px rgba(46, 202, 139, 0.5);
 }
 .event-schedule.event-success .content .title:hover {
-  color: #2eca8b !important;
+  color: #144e78 !important;
 }
 .event-schedule.event-success:hover {
-  border-color: #2eca8b !important;
+  border-color: #144e78 !important;
 }
 
 .event-schedule.event-info .date {
@@ -6305,7 +6305,7 @@ html[dir=rtl] .tns-visually-hidden {
 }
 
 .border-success {
-  border-color: #2eca8b !important;
+  border-color: #144e78 !important;
 }
 
 .border-info {
@@ -6556,13 +6556,13 @@ ul.pattern li .color-list {
   margin: 5px;
 }
 ul.pattern .color1 {
-  background-color: #2f55d4;
+  background-color: #144e78;
 }
 ul.pattern .color2 {
   background-color: #16a34a;
 }
 ul.pattern .color3 {
-  background-color: #f7961c;
+  background-color: #144e78;
 }
 
 .mode-dark {
